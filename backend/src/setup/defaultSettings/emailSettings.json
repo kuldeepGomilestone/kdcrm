@@ -18,7 +18,7 @@
   {
     "settingCategory": "email_settings",
     "settingKey": "email_from",
-    "settingValue": "IDURAR ERP CRM",
+    "settingValue": "Groot ERP CRM",
     "valueType": "string",
     "isCoreSetting": true,
     "isPrivate": false

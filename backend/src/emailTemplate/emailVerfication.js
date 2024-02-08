@@ -62,7 +62,7 @@ exports.passwordVerfication = ({
 };
 
 exports.afterRegistrationSuccess = ({
-  title = 'Customize IDURAR ERP CRM or build your own SaaS',
+  title = 'Customize Groot ERP CRM or build your own SaaS',
   name = '',
 }) => {
   return `
@@ -80,8 +80,8 @@ exports.afterRegistrationSuccess = ({
             <hr data-id="react-email-hr" style="width:100%;border:none;border-top:1px solid #eaeaea" />
             <p data-id="react-email-text" style="font-size:14px;line-height:24px;margin:16px 0">Hello ${name},</p>
             <p data-id="react-email-text" style="font-size:14px;line-height:24px;margin:16px 0">I would like to invite you to book a call if you need : </p>
-            <p data-id="react-email-text" style="font-size:14px;line-height:24px;margin:16px 0"> * Customize or adding new features to IDURAR ERP CRM.</p>
-            <p data-id="react-email-text" style="font-size:14px;line-height:24px;margin:16px 0"> * Build your own custom SaaS solution based on IDURAR ERP CRM , With IDURAR SaaS license  ,  instead of investing  in an uncertain developer team. This opportunity allows you to build a tailored SaaS platform that meets your specific business needs.</p>
+            <p data-id="react-email-text" style="font-size:14px;line-height:24px;margin:16px 0"> * Customize or adding new features to Groot ERP CRM.</p>
+            <p data-id="react-email-text" style="font-size:14px;line-height:24px;margin:16px 0"> * Build your own custom SaaS solution based on Groot ERP CRM , With IDURAR SaaS license  ,  instead of investing  in an uncertain developer team. This opportunity allows you to build a tailored SaaS platform that meets your specific business needs.</p>
             <p data-id="react-email-text" style="font-size:14px;line-height:24px;margin:16px 0"> Book a call here  <a href="https://calendly.com/lalami/meeting">https://calendly.com/lalami/meeting</a></p>
             <hr data-id="react-email-hr" style="width:100%;border:none;border-top:1px solid #eaeaea" />
             <p data-id="react-email-text" style="font-size:14px;line-height:24px;margin:16px 0">Best regards,</p>

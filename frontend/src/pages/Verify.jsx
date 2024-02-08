@@ -64,7 +64,7 @@ function Survey({ current }) {
         </Form.Item>
         <Form.Item
           name="version"
-          label="How you want to use IDURAR ERP CRM ?"
+          label="How you want to use Groot ERP CRM ?"
           rules={[
             {
               required: true,
@@ -87,7 +87,7 @@ function Survey({ current }) {
         </Form.Item>
         <Form.Item
           name="industry"
-          label="In witch Industry you want use IDURAR ERP CRM ?"
+          label="In witch Industry you want use Groot ERP CRM ?"
           rules={[
             {
               required: true,

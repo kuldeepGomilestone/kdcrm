@@ -4,7 +4,7 @@
     </a>
     <h1>Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
     <p align="center">
-        <p>IDURAR ERP CRM | Simple To Use | 44 Languages </p>
+        <p>Groot ERP CRM | Simple To Use | 44 Languages </p>
     </p>
     
   [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
@@ -40,7 +40,7 @@ No, you cannot customize IDURAR as a SaaS and provide it to other users , You ar
 
 [Get in touch](mailto:hello@idurarapp.com)
 
-## How To Deploy IDURAR ERP CRM :
+## How To Deploy Groot ERP CRM :
 
 🔥 I would like to invite you for a weekly free IDURAR Webinar (Node.js React.js course), where you learn how to deploy IDURAR on cloud , and create a new api and new crud app with IDURAR in just one hour ?
 Please fill this form if you are interested : [https://forms.gle/qz2YZ3xQFQ77bGhS8](https://forms.gle/qz2YZ3xQFQ77bGhS8)
